@@ -1,4 +1,4 @@
-package app;
+/*package app;
 //aqui um get e set
 public class ViaCepResponse {
     private String cep;
@@ -37,4 +37,4 @@ public class ViaCepResponse {
                 ", localidade='" + localidade + '\'' +
                 '}';
     }
-}
+}*/

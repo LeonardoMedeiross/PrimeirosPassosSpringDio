@@ -1,4 +1,4 @@
-package primeiros_passos;
+/*package primeiros_passos;
 
 import org.springframework.stereotype.Component;
 @Component
@@ -7,3 +7,4 @@ public class Calculadora {
         return numero1 + numero2 ;
     }
 }
+*/

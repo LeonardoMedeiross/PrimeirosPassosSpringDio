@@ -1,4 +1,4 @@
-package primeiros_passos;
+/*package primeiros_passos;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
@@ -17,3 +17,4 @@ public class MyApp implements CommandLineRunner {
 }
 // usando o @Component não usa o "new" para as instruções
 //e para o @Component consiga ter outra dependencia de outro componente tem que usa o @Autowired para injetar outro componente !
+*/

@@ -1,4 +1,4 @@
-package app;
+/*package app;
 import com.google.gson.Gson;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
@@ -11,5 +11,5 @@ public class ConversorJson {
         ViaCepResponse response = gson.fromJson(json,ViaCepResponse.class);
         return response ;
     }
-}
+}*/
 //usar o @Component quando tem o acesso ao codigo fonte

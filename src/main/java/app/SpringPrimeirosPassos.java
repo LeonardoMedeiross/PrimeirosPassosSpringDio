@@ -1,4 +1,4 @@
-package app;
+/*package app;
 
 import primeiros_passos.PrimeirosPassosApplication;
 import org.springframework.boot.CommandLineRunner;
@@ -21,4 +21,4 @@ public class SpringPrimeirosPassos {
           System.out.println("Dados do Cep : " + response);
       };
     }
-}
+}*/
